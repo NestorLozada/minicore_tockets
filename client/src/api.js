@@ -1,5 +1,5 @@
 import axios from 'axios';
-const url = "https://pases-parking-dbem.com/api/post";
+const url = "https://tickets-backend-hhr9.onrender.com/api/post";
 
 export default class API{
     //get all post form the server
