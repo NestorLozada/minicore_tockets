@@ -7,7 +7,7 @@
       <v-list-item>
         <v-list-item-content>
           <v-list-item-title>
-            Daniela Estupinan
+            Nestor Lozada
           </v-list-item-title>
           <v-list-item-subtitle>
              Skin Care Tips
